@@ -1,0 +1,13 @@
+/* Banking app CSS by Stefan Milivojević */
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.jumbotron {
+  background: #011627;
+}
+
+.jumbotron h1 {
+  color: #EAE8FF;
+}
